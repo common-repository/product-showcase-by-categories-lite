@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Showcase by categories\n"
+"POT-Creation-Date: 2014-08-26 08:07+0700\n"
+"PO-Revision-Date: 2014-08-26 08:07+0700\n"
+"Last-Translator: \n"
+"Language-Team: IndoWebKreasi\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ./\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-psbc-settings.php:14
+msgid "Product Showcase"
+msgstr ""
+
+#: class-psbc-settings.php:31
+msgid "Product Showcase Options"
+msgstr ""
+
+#: class-psbc-settings.php:34
+msgid "Max. Number of Products"
+msgstr ""
+
+#: class-psbc-settings.php:35
+msgid "Maximum number of products for each category."
+msgstr ""
+
+#: class-psbc-settings.php:48
+msgid "Max. Number of Columns"
+msgstr ""
+
+#: class-psbc-settings.php:49
+msgid "Number of columns when displaying products on desktop screen size."
+msgstr ""
+
+#: class-psbc-settings.php:62
+msgid "Product Template"
+msgstr ""
+
+#: class-psbc-settings.php:63
+msgid "Template for displaying each product."
+msgstr ""
+
+#: class-psbc-settings.php:69
+msgid "Use Plugin Template"
+msgstr ""
+
+#: class-psbc-settings.php:70
+msgid "Use Theme Template"
+msgstr ""
+
+#: class-psbc-settings.php:77
+msgid "Container Style"
+msgstr ""
+
+#: class-psbc-settings.php:80 class-psbc-settings.php:115
+msgid "Style"
+msgstr ""
+
+#: class-psbc-settings.php:81
+msgid "Choose container style:"
+msgstr ""
+
+#: class-psbc-settings.php:86
+msgid "No Border"
+msgstr ""
+
+#: class-psbc-settings.php:87
+msgid "Border with rounded corner"
+msgstr ""
+
+#: class-psbc-settings.php:88
+msgid "Square Border"
+msgstr ""
+
+#: class-psbc-settings.php:93
+msgid "Border Color"
+msgstr ""
+
+#: class-psbc-settings.php:94
+msgid "Color for container border."
+msgstr ""
+
+#: class-psbc-settings.php:102
+msgid "Background Color"
+msgstr ""
+
+#: class-psbc-settings.php:103
+msgid "Color for container background."
+msgstr ""
+
+#: class-psbc-settings.php:112
+msgid "Category Buttons Style"
+msgstr ""
+
+#: class-psbc-settings.php:116
+msgid "Choose button style:"
+msgstr ""
+
+#: class-psbc-settings.php:121
+msgid "Capsule"
+msgstr ""
+
+#: class-psbc-settings.php:122
+msgid "Square"
+msgstr ""
+
+#: class-psbc-settings.php:123
+msgid "Underline"
+msgstr ""
+
+#: class-psbc-settings.php:128
+msgid "Color"
+msgstr ""
+
+#: class-psbc-settings.php:129
+msgid "Color for button border or background when active."
+msgstr ""
+
+#: templates/loop/sale-flash.php:16
+msgid "Sale!"
+msgstr ""
+
+#: templates/show-products.php:13
+msgid "Loading..."
+msgstr ""
